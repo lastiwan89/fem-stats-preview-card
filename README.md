@@ -9,7 +9,7 @@ This is a solution to the [Stats preview card component challenge on Frontend Me
 ### Links
 
 - Solution URL: [Github code repo](https://github.com/lastiwan89/fem-stats-preview-card)
-- Live Site URL: [Netlify]()
+- Live Site URL: [Netlify](https://64cb9f4bb759fc6fe662c649--genuine-capybara-510d1d.netlify.app/)
 
 ## My process
 
